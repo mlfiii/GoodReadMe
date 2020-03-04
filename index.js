@@ -62,7 +62,7 @@ function generateHTML(answers) {
 ## *Table of Contents*
 ${answers.toc}
    
-## *Intallatioon*
+## *Intallation*
 ${answers.instl}
     
 ## *Usage*    
