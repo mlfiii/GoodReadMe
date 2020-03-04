@@ -55,7 +55,30 @@ function getUserInput() {
 }
 
 function generateHTML(answers) {
-    return `# GoodReadMe2`;
+    return `#*${answers.title}* 
+
+    ##*${answers.pdesc}*
+
+    ##*Table of Contents*
+    ${answers.toc}
+   
+    ##*Intallatioon*
+    ${answers.instl}
+    
+    ##*Usage*
+    ${answers.usage}
+    
+    ##*License*
+    ${answers.lic}
+    
+    ##*Contributors*
+    ${answers.contrib}
+    
+    ##*Tests*
+    ${answers.tests}
+
+    ##*Questions*
+    ${answers.quest}`;
 }
 
 
@@ -66,7 +89,7 @@ async function init() {
 
         const mdfile = generateHTML(answers);
 
-        await writeFileAsync("readme2.md", mdfile);
+        await writeFileAsync("readme.md", mdfile);
 
         console.log("Successfully wrote to index.html");
     } catch (err) {
