@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #*Title* 
 
     ##*Desc*
@@ -22,3 +23,6 @@
 
     ##*Questions*
     questions
+=======
+# GoodReadMe
+>>>>>>> 4cda7fed1c635e948ebf9eb4ea408ef68d044368
