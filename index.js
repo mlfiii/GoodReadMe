@@ -55,30 +55,30 @@ function getUserInput() {
 }
 
 function generateHTML(answers) {
-    return `#*${answers.title}* 
+    return `# *${answers.title}* 
 
-    ##*${answers.pdesc}*
+## *${answers.pdesc}*
 
-    ##*Table of Contents*
-    ${answers.toc}
+## *Table of Contents*
+${answers.toc}
    
-    ##*Intallatioon*
-    ${answers.instl}
+## *Intallatioon*
+${answers.instl}
     
-    ##*Usage*
-    ${answers.usage}
+## *Usage*    
+${answers.usage}
     
-    ##*License*
-    ${answers.lic}
+## *License*
+${answers.lic}
     
-    ##*Contributors*
-    ${answers.contrib}
+## *Contributors*
+${answers.contrib}
     
-    ##*Tests*
-    ${answers.tests}
+## *Tests*
+${answers.tests}
 
-    ##*Questions*
-    ${answers.quest}`;
+## *Questions*
+${answers.quest}`;
 }
 
 
