@@ -1,24 +1,24 @@
 # *Title* 
 
-    ## *Desc*
+    ## **Desc**
 
-    ##*Table of Contents*
+    ## **Table of Contents**
     TOC
    
-    ##*Intallatioon*
+    ## **Intallatioon**
     Installation
     
-    ##*Usage*
+    ## **Usage**
     Usage
     
-    ##*License*
+    ## **License**
     License
     
-    ##*Contributors*
+    ## **Contributors**
     contributing
     
-    ##*Tests*
+    ## **Tests**
     tests
 
-    ##*Questions*
+    ## **Questions**
     questions
