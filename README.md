@@ -27,11 +27,11 @@ It needs to have an image and be in markdown.
 This project is licensed under the MIT license.
     
 ## *Contributing*
-They should be able too run it on command line.
+They should be able to run it on command line.
     
 ## *Tests*
 npm test
 
 ## *Questions*
 <img src="https://avatars0.githubusercontent.com/u/57580332?v=4" alt="avatar" style="border-radius: 16px" width="30" />
-If you have any questions about the repo, open an issue or contact <a src="https://api.github.com/users/mlfiii">mlfiii</a>.
+If you have any questions about the repo, open an issue or contact [mlfiii](https://api.github.com/users/mlfiii).
