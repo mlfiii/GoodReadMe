@@ -71,7 +71,7 @@ function generateHTML(answers, github) {
     return `# *${answers.repo}* 
     
 
-[![GitHub license](https://img.shields.io/badge/license-mit-blue.svg)]
+![GitHub license](https://img.shields.io/badge/license-mit-blue.svg)
 
 ## *Description*
 
@@ -103,7 +103,7 @@ ${answers.tests}
 
 ## *Questions*
 <img src="${github.items[0].owner.avatar_url}" alt="avatar" style="border-radius: 16px" width="30" />
-If you have any questioons about the repo, opoen an issue or contact [[mlfiii](${github.items[0].owner.url})
+If you have any questioons about the repo, opoen an issue or contact [mlfiii](${github.items[0].owner.url}).
 `;
 }
 
