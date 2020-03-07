@@ -32,6 +32,6 @@ They should be able to run it on command line.
 ## *Tests*
 npm test
 
+
 ## *Questions*
 <img src="https://avatars0.githubusercontent.com/u/57580332?v=4" alt="avatar" style="border-radius: 16px" width="30" />
-If you have any questions about the repo, open an issue or contact [mlfiii](https://api.github.com/users/mlfiii).
