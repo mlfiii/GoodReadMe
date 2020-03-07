@@ -1,24 +1,36 @@
-# *Title* 
+# *GoodReadMe* 
+    
 
-## *Descriptioon*
+[![GitHub license](https://img.shields.io/badge/license-mit-blue.svg)]
+
+## *Description*
+
+This project is to generate a good read me file.
 
 ## *Table of Contents*
-TOC
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
    
 ## *Intallation*
-INSTALLATION
+npm install
     
 ## *Usage*    
-USAGE
+It needs to have an image and be in markdown.
     
 ## *License*
-LICENSE
+This project is licensed under the MIT license.
     
-## *Contributors*
-CONTRIB
+## *Contributing*
+They should be able to run it on command line.
     
 ## *Tests*
-TESTS
+npm test
 
 ## *Questions*
-QUESTIONS
+<img src="https://avatars0.githubusercontent.com/u/57580332?v=4" alt="avatar" style="border-radius: 16px" width="30" />
+If you have any questioons about the repo, opoen an issue or contact [[mlfiii](https://api.github.com/users/mlfiii)
