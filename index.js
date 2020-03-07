@@ -104,7 +104,8 @@ ${answers.tests}
 
 ## *Questions*
 <img src="${github.items[0].owner.avatar_url}" alt="avatar" style="border-radius: 16px" width="30" />
-If you have any questions about the repo, open an issue or contact [${github.items[0].owner.login}](${github.items[0].owner.url}).`;
+
+If you have any questions about the repo, open an issue or contact [${github.items[0].owner.login}](${github.items[0].owner.url}) `;
 }
 
 //Used to run the overall code.
